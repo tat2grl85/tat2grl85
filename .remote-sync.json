@@ -1,0 +1,11 @@
+{
+  "transport": "scp",
+  "hostname": "tat2grl85.com",
+  "username": "tat2grl85",
+  "keyfile": "c:/users/cupcake/.ssh/github_rsa",
+  "target": "/home/tat2grl85/pub/",
+  "ignore": [
+    ".git/**",
+    ".git*"
+  ]
+}
